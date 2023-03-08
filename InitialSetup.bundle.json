@@ -9,21 +9,21 @@
 			}
 		},
 		{
-			"url": "https://raw.githubusercontent.com/TerraFirmaCraft-The-Final-Frontier/src/main/modpack-information.Mod Versions.txt",
+			"url": "https://raw.githubusercontent.com/TerraFirmaCraft-The-Final-Frontier/src/main/modpack-information/Mod%20Versions.txt",
 			"folder": "modpack-information",
 			"installationPolicy": {
 				"downloadAlways": true
 			}
 		},
 		{
-			"url": "https://raw.githubusercontent.com/TerraFirmaCraft-The-Final-Frontier/src/main/modpack-information.Credits.txt",
+			"url": "https://raw.githubusercontent.com/TerraFirmaCraft-The-Final-Frontier/src/main/modpack-information/Credits.txt",
 			"folder": "modpack-information",
 			"installationPolicy": {
 				"downloadAlways": true
 			}
 		},
 		{
-			"url": "https://raw.githubusercontent.com/TerraFirmaCraft-The-Final-Frontier/src/main/modpack-information.Splashes.txt",
+			"url": "https://raw.githubusercontent.com/TerraFirmaCraft-The-Final-Frontier/src/main/modpack-information/Splashes.txt",
 			"folder": "modpack-information",
 			"installationPolicy": {
 				"downloadAlways": true
