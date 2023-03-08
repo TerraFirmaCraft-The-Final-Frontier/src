@@ -3,7 +3,7 @@
 	[
 		{
 			"url": "https://raw.githubusercontent.com/TerraFirmaCraft-The-Final-Frontier/src/main/InitialSetup.remote.json",
-			"folder": "config/mod-direct",
+			"folder": "config/mod-director",
 			"installationPolicy": {
 				"downloadAlways": true
 			}
