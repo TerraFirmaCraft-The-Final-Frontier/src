@@ -1,1 +1,28 @@
+{
+	"url":
+	[
+		{
+			"url": "https://raw.githubusercontent.com/Lylythii/lylythii.github.io/main/tff/ModpackInformation.zip",
+			"folder": "modpack-information",
+			"installationPolicy": {
+			   "extract": true
+			}
+		},
+		{
+			"url": "https://raw.githubusercontent.com/TerraFirmaCraft-The-Final-Frontier/src/main/resources/tff/branding/menu/icon.png",
+			"folder": "resources/tff/branding/menu",
+			"installationPolicy": {
+			   "extract": true
+			}
+		},
+		{
+			"url": "https://raw.githubusercontent.com/TerraFirmaCraft-The-Final-Frontier/src/main/modpack-information.ModVersions.txt",
+			"folder": "modpack-information",
+			"installationPolicy": {
+			   "extract": true
+			}
+		}
+	]
+}
+
 
