@@ -2,8 +2,8 @@
 	"url":
 	[
 		{
-			"url": "https://raw.githubusercontent.com/TerraFirmaCraft-The-Final-Frontier/src/main/resources/tff/branding/menu/icon.png",
-			"folder": "config",
+			"url": "https://raw.githubusercontent.com/TerraFirmaCraft-The-Final-Frontier/src/main/resources/tff/branding/menu/icon.png"
+			"folder": "resources/tff/branding/menu",
 			"installationPolicy": {
 				"downloadAlways": true
 			}
