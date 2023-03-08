@@ -2,24 +2,31 @@
 	"url":
 	[
 		{
-			"url": "https://raw.githubusercontent.com/Lylythii/lylythii.github.io/main/tff/ModpackInformation.zip",
-			"folder": "modpack-information",
-			"installationPolicy": {
-			   "extract": true
-			}
-		},
-		{
 			"url": "https://raw.githubusercontent.com/TerraFirmaCraft-The-Final-Frontier/src/main/resources/tff/branding/menu/icon.png",
 			"folder": "resources/tff/branding/menu",
 			"installationPolicy": {
-			   "extract": true
+				"downloadAlways": true
 			}
 		},
 		{
-			"url": "https://raw.githubusercontent.com/TerraFirmaCraft-The-Final-Frontier/src/main/modpack-information.ModVersions.txt",
+			"url": "https://raw.githubusercontent.com/TerraFirmaCraft-The-Final-Frontier/src/main/modpack-information.Mod Versions.txt",
 			"folder": "modpack-information",
 			"installationPolicy": {
-			   "extract": true
+				"downloadAlways": true
+			}
+		},
+		{
+			"url": "https://raw.githubusercontent.com/TerraFirmaCraft-The-Final-Frontier/src/main/modpack-information.Credits.txt",
+			"folder": "modpack-information",
+			"installationPolicy": {
+				"downloadAlways": true
+			}
+		},
+		{
+			"url": "https://raw.githubusercontent.com/TerraFirmaCraft-The-Final-Frontier/src/main/modpack-information.Splashes.txt",
+			"folder": "modpack-information",
+			"installationPolicy": {
+				"downloadAlways": true
 			}
 		}
 	]
