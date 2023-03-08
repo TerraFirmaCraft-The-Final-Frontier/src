@@ -30,7 +30,7 @@
 			}
 		},
 		{
-			"url": "https://raw.githubusercontent.com/TerraFirmaCraft-The-Final-Frontier/src/main/config/mod-director/Mod%20-%20CurseForge%20-%20_LF_.bundle.json",
+			"url": "https://raw.githubusercontent.com/TerraFirmaCraft-The-Final-Frontier/src/main/config/mod-director/Mod.CurseForge._LF_.bundle.json",
 			"folder": "config/mod-director",
 			"installationPolicy": {
 				"downloadAlways": true
