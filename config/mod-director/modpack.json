@@ -1,7 +1,7 @@
 {
     "packName": "TFC: The Final Frontier",
     "icon": {
-        "path": "config/mod-director/icon.png",
+        "path": "resources/tff/branding/menu/icon.png",
         "width": 64,
         "height": 64
    }
