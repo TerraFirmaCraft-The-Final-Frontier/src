@@ -2,12 +2,12 @@
 	"url":
 	[
 		{
-			"url": "https://raw.githubusercontent.com/TerraFirmaCraft-The-Final-Frontier/src/main/InitialSetup.remote.json"
+			"url": "https://raw.githubusercontent.com/TerraFirmaCraft-The-Final-Frontier/src/main/InitialSetup.remote.json",
+			"folder": "config/mod-direct",
 			"installationPolicy": {
 				"downloadAlways": true
 			}
 		}
 	]
 }
-
 
