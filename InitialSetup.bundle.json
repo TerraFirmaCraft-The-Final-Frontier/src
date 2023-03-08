@@ -11,6 +11,7 @@
 		{
 			"url": "https://raw.githubusercontent.com/TerraFirmaCraft-The-Final-Frontier/src/main/modpack-information/Mod%20Versions.txt",
 			"folder": "modpack-information",
+			"fileName": "Mod Versions.txt",
 			"installationPolicy": {
 				"downloadAlways": true
 			}
