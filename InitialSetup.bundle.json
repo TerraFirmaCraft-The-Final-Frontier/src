@@ -2,37 +2,8 @@
 	"url":
 	[
 		{
-			"url": "https://raw.githubusercontent.com/TerraFirmaCraft-The-Final-Frontier/src/main/resources/tff/branding/menu/icon.png",
+			"url": "https://raw.githubusercontent.com/TerraFirmaCraft-The-Final-Frontier/src/main/InitialSetup.remote.json"
 			"folder": "resources/tff/branding/menu",
-			"installationPolicy": {
-				"downloadAlways": true
-			}
-		},
-		{
-			"url": "https://raw.githubusercontent.com/TerraFirmaCraft-The-Final-Frontier/src/main/modpack-information/Mod%20Versions.txt",
-			"folder": "modpack-information",
-			"fileName": "Mod Versions.txt",
-			"installationPolicy": {
-				"downloadAlways": true
-			}
-		},
-		{
-			"url": "https://raw.githubusercontent.com/TerraFirmaCraft-The-Final-Frontier/src/main/modpack-information/Credits.txt",
-			"folder": "modpack-information",
-			"installationPolicy": {
-				"downloadAlways": true
-			}
-		},
-		{
-			"url": "https://raw.githubusercontent.com/TerraFirmaCraft-The-Final-Frontier/src/main/modpack-information/Splashes.txt",
-			"folder": "modpack-information",
-			"installationPolicy": {
-				"downloadAlways": true
-			}
-		},
-		{
-			"url": "https://raw.githubusercontent.com/TerraFirmaCraft-The-Final-Frontier/src/main/config/mod-director/Mod.CurseForge._LF_.bundle.json",
-			"folder": "config/mod-director",
 			"installationPolicy": {
 				"downloadAlways": true
 			}
