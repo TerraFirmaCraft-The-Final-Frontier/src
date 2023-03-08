@@ -2,8 +2,7 @@
 	"url":
 	[
 		{
-			"url": "https://raw.githubusercontent.com/TerraFirmaCraft-The-Final-Frontier/src/main/InitialSetup.remote.json",
-			"folder": "resources/tff/branding/menu",
+			"url": "https://raw.githubusercontent.com/TerraFirmaCraft-The-Final-Frontier/src/main/InitialSetup.remote.json"
 			"installationPolicy": {
 				"downloadAlways": true
 			}
