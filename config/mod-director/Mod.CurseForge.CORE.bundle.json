@@ -1,0 +1,30 @@
+{
+	"curse":
+	[
+		{
+			"fileName": "CORE ┆ Roughly Enough IDs.jar",
+			"addonId": 629017,
+			"fileId": 4399765
+		},
+		{
+			"fileName": "CORE ┆ Fluidlogged API.jar",
+			"addonId": 485654,
+			"fileId": 4422404
+		},
+		{
+			"fileName": "CORE ┆ Patchouli.jar",
+			"addonId": 306770,
+			"fileId": 3162874
+		},
+		{
+			"fileName": "CORE ┆ Sleeping Overhaul.jar",
+			"addonId": 297284,
+			"fileId": 2644723
+		},
+		{
+			"fileName": "CORE ┆ Item Physics (Full).jar",
+			"addonId": 258587,
+			"fileId": 3487676
+		}
+	]
+}

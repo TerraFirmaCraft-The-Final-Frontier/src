@@ -1,0 +1,46 @@
+{
+	"curse":
+	[
+		{
+			"fileName": "LIB ┆ Load My Resources.jar",
+			"addonId": 534502,
+			"fileId": 4118350,
+			"metadata": {
+				"side": "CLIENT"
+			}
+		},
+		{
+			"fileName": "LIB ┆ Konkrete.jar",
+			"addonId": 410295,
+			"fileId": 4136422,
+			"metadata": {
+				"side": "CLIENT"
+			}
+		},
+		{
+			"fileName": "LIB ┆ Asset Mover.jar",
+			"addonId": 571482,
+			"fileId": 4408954
+		},
+		{
+			"fileName": "LIB ┆ Render Lib.jar",
+			"addonId": 624967,
+			"fileId": 4418995
+		},
+		{
+			"fileName": "LIB ┆ Creative Core.jar",
+			"addonId": 257814,
+			"fileId": 3626833
+		},
+		{
+			"fileName": "LIB ┆ Cosmic Lib.jar",
+			"addonId": 283283,
+			"fileId": 2644720
+		},
+		{
+			"fileName": "LIB ┆ Tickrate Changer.jar",
+			"addonId": 230233,
+			"fileId": 2483406
+		}
+	]
+}

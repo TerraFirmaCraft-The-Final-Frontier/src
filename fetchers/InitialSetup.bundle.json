@@ -1,0 +1,69 @@
+{
+	"url":
+	[
+		{
+			"url": "https://raw.githubusercontent.com/TerraFirmaCraft-The-Final-Frontier/src/main/fetchers/Mod.CurseForge._LF_.remote.json",
+			"folder": "config/mod-director",
+			"installationPolicy": {
+				"downloadAlways": true
+			}
+		},
+		{
+			"url": "https://raw.githubusercontent.com/TerraFirmaCraft-The-Final-Frontier/src/main/fetchers/Mod.CurseForge.CORE.remote.json",
+			"folder": "config/mod-director",
+			"installationPolicy": {
+				"downloadAlways": true
+			}
+		},
+		{
+			"url": "https://raw.githubusercontent.com/TerraFirmaCraft-The-Final-Frontier/src/main/fetchers/Mod.CurseForge.CTM.remote.json",
+			"folder": "config/mod-director",
+			"installationPolicy": {
+				"downloadAlways": true
+			}
+		},
+		{
+			"url": "https://raw.githubusercontent.com/TerraFirmaCraft-The-Final-Frontier/src/main/fetchers/Mod.CurseForge.FIX.remote.json",
+			"folder": "config/mod-director",
+			"installationPolicy": {
+				"downloadAlways": true
+			}
+		},
+		{
+			"url": "https://raw.githubusercontent.com/TerraFirmaCraft-The-Final-Frontier/src/main/fetchers/Mod.CurseForge.LIB.remote.json",
+			"folder": "config/mod-director",
+			"installationPolicy": {
+				"downloadAlways": true
+			}
+		},
+		{
+			"url": "https://raw.githubusercontent.com/TerraFirmaCraft-The-Final-Frontier/src/main/fetchers/Mod.CurseForge.OPT.remote.json",
+			"folder": "config/mod-director",
+			"installationPolicy": {
+				"downloadAlways": true
+			}
+		},
+		{
+			"url": "https://raw.githubusercontent.com/TerraFirmaCraft-The-Final-Frontier/src/main/fetchers/Mod.CurseForge.QOL.remote.json",
+			"folder": "config/mod-director",
+			"installationPolicy": {
+				"downloadAlways": true
+			}
+		},
+		{
+			"url": "https://raw.githubusercontent.com/TerraFirmaCraft-The-Final-Frontier/src/main/fetchers/Mod.CurseForge.SRC.remote.json",
+			"folder": "config/mod-director",
+			"installationPolicy": {
+				"downloadAlways": true
+			}
+		},
+		{
+			"url": "https://raw.githubusercontent.com/TerraFirmaCraft-The-Final-Frontier/src/main/fetchers/Mod.Discord.Archive.remote.json",
+			"folder": "config/mod-director",
+			"installationPolicy": {
+				"downloadAlways": true
+			}
+		}
+	]
+}
+

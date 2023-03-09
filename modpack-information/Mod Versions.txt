@@ -3,3 +3,36 @@
 
 # _LF_
 - Mixin Booter - 7.0
+
+# CORE
+- Roughly Enough IDs - 2.0.4
+- Fluidlogged API - 2.0.0
+- Patchouli - 1.0-23.6
+- Sleeping Overhaul - 1.0.0
+- Item Physics (Full) - 1.4.37
+
+# CTM
+- Fancy Menu ┆ 2.13.3
+- Loli ASM ┆ 5.6
+- Universal Tweaks ┆ 1.4.1
+- Bansōkō ┆ 4.3.1
+
+# LIB
+- Load My Resources ┆ 1.0.4
+- Konkrete ┆ 1.6.0
+- Asset Mover ┆ 2.3
+- Render Lib ┆ 1.2.6
+- Creative Core ┆ 1.10.70
+- Cosmic Lib ┆ 0.4.0
+- Tickrate Changer ┆ 1.0.14
+
+# OPT
+- Hesperus ┆ 0.2.9.2
+- Entity Culling ┆ 6.3.0
+- Friendly Chests ┆ 1.0.1
+- Startup Timer ┆ 1.0.1
+- Blur ┆ 1.0.4
+- Let Sleeping Dogs Lie ┆ 1.0.2
+
+# SRC
+- Had Enough Items ┆ 4.24.2

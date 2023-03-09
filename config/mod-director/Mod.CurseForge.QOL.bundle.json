@@ -1,0 +1,32 @@
+{
+	"curse":
+	[
+		{
+
+			"fileName": "QOL ┆ Friendly Chests.jar",
+			"addonId": 715086,
+			"fileId": 4223933
+		},
+		{
+			"fileName": "QOL ┆ Startup Timer.jar",
+			"addonId": 782070,
+			"fileId": 4275356,
+			"metadata": {
+				"side": "CLIENT"
+			}
+		},
+		{
+			"fileName": "QOL ┆ Blur.jar",
+			"addonId": 268324,
+			"fileId": 2460821,
+			"metadata": {
+				"side": "CLIENT"
+			}
+		},
+		{
+			"fileName": "QOL ┆ Let Sleeping Dogs Lie.jar",
+			"addonId": 334098,
+			"fileId": 2803490
+		}
+	]
+}
